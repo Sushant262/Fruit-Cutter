@@ -883,7 +883,7 @@ MonoBehaviour:
   maxSpawnDelay: 1
   minAngle: -15
   maxAngle: 15
-  minForce: 18
+  minForce: 17.5
   maxForce: 22
   maxLifetime: 5
 --- !u!65 &1865947126
